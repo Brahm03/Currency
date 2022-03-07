@@ -1,0 +1,28 @@
+class CodeInfoData {
+  static List codeInfoList = [
+    'https://en.wikipedia.org/wiki/United_Arab_Emirates_dirham',
+    'https://en.wikipedia.org/wiki/Australian_dollar',
+    'https://en.wikipedia.org/wiki/Canadian_dollar',
+    'https://en.wikipedia.org/wiki/Swiss_franc',
+    'https://en.wikipedia.org/wiki/Yuan_(currency)',
+    'https://en.wikipedia.org/wiki/Danish_krone',
+    'https://en.wikipedia.org/wiki/Egyptian_pound',
+    'https://en.wikipedia.org/wiki/Euro',
+    'https://en.wikipedia.org/wiki/Pound_sterling',
+    'https://en.wikipedia.org/wiki/Icelandic_kr%C3%B3na',
+    'https://en.wikipedia.org/wiki/Japanese_yen',
+    'https://en.wikipedia.org/wiki/South_Korean_won',
+    'https://en.wikipedia.org/wiki/Kuwaiti_dinar',
+    'https://en.wikipedia.org/wiki/Kazakhstani_tenge',
+    'https://en.wikipedia.org/wiki/Lebanese_pound',
+    'https://en.wikipedia.org/wiki/Malaysian_ringgit',
+    'https://en.wikipedia.org/wiki/Norwegian_krone',
+    'https://en.wikipedia.org/wiki/Polish_z%C5%82oty',
+    'https://en.wikipedia.org/wiki/Russian_ruble',
+    'https://en.wikipedia.org/wiki/Swedish_krona',
+    'https://en.wikipedia.org/wiki/Singapore_dollar',
+    'https://en.wikipedia.org/wiki/Turkish_lira',
+    'https://en.wikipedia.org/wiki/Ukrainian_hryvnia',
+    'https://en.wikipedia.org/wiki/United_States_dollar',
+  ];
+}
